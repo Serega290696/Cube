@@ -1,0 +1,1 @@
+Java -Djava.library.path="lib\natives" -jar CubeV1.jar
